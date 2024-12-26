@@ -1,13 +1,14 @@
 # AI-Powered Data Platform Project
 
-## Project Goal
-1. Predictive analytics for business decision-making.
-2. Data integration and transformation using AI.
-3. Natural Language Processing (NLP) for querying datasets.
-4. Automated data quality checks and anomaly detection.
-
-<details>
-<summary> Key Components </summary>
+<h1> <b> Project Goal </b>  </h1>
+<ol>
+<li>  Predictive analytics for business decision-making. </li>
+<li>  Data integration and transformation using AI. </li>
+<li>  Natural Language Processing (NLP) for querying datasets. </li>
+<li>  Automated data quality checks and anomaly detection. </li>
+</ol>
+<details open>
+<summary> <h1> Key Components </h1> </summary>
 
 ## 1. Data Sources 
 
@@ -49,7 +50,7 @@ Compliance with standards like GDPR or HIPAA.
 </details>
 
 <details>
-<summary> Use Cases </summary>
+<summary> <h1> Use Cases </h1> </summary>
 
 # 1. Customer Segmentation
     Objective: Group customers based on behaviors and attributes for targeted marketing campaigns.
@@ -64,13 +65,15 @@ Compliance with standards like GDPR or HIPAA.
     PCA (Principal Component Analysis)
     t-SNE (t-Distributed Stochastic Neighbor Embedding)
 
-   ###   Features
-    Demographics: Age, income, location.
-    Purchase history.
-    Website/app interaction metrics.
-    Engagement with campaigns.
+   ###   Features:
+<ol>
+    <li> Demographics: Age, income, location. </li>
+    <li> Purchase history. </li> 
+    <li> Website/app interaction metrics.</li> 
+    <li> Engagement with campaigns. </<li> 
+</ol>
 
- ###  Tools
+ ###  Tools:
   scikit-learn, H2O.ai, Tableau for visualization.
 
 # 2. Anomaly Detection
@@ -89,11 +92,13 @@ Compliance with standards like GDPR or HIPAA.
     Time-Series Anomaly Detection: LSTM, ARIMA.
 
 ## Features
-      # Transaction amounts and frequencies.
-      # User behavior patterns.
-      # Geo-location and device information.
+<ol>
+    <li> Transaction amounts and frequencies. </li>
+    <li>  User behavior patterns. </li>
+    <li>  Geo-location and device information. </li>
+</ol>
 
-# Tools
+# Tools: 
   TensorFlow, PyTorch, AWS Fraud Detector.
 
 # 3. Data Enrichment
@@ -189,19 +194,19 @@ Objective: Segment customers based on Recency, Frequency, and Monetary value for
 
 ## Visualization:
 
-Dynamic dashboards showing segment distributions.
-Integration with tools like Power BI, Tableau, and Apache Superset.
+    Dynamic dashboards showing segment distributions.
+    Integration with tools like Power BI, Tableau, and Apache Superset.
 
 ## Export Options:
 
-Direct integration with CRM systems.
-CSV/Excel export for offline analysis.
+    Direct integration with CRM systems.
+    CSV/Excel export for offline analysis.
 
 ## Tools
 
-Low-code/no-code platforms custom-built interfaces integrated into the data platform.
-Frontend tools such as JavaScript frameworks (e.g., React, Angular, Vue.js), Elasticsearch for search capabilities, and Django for backend support.
-Libraries and frameworks to build drag-and-drop interfaces for customer segmentation include D3.js for visualizations, Chart.js, and libraries like interact.js for interactive UI components.
+    Low-code/no-code platforms custom-built interfaces integrated into the data platform.
+    Frontend tools such as JavaScript frameworks (e.g., React, Angular, Vue.js), Elasticsearch for search capabilities, and Django for backend support.
+    Libraries and frameworks to build drag-and-drop interfaces for customer segmentation include D3.js for visualizations, Chart.js, and libraries like interact.js for interactive UI components.
 
 </details>
 
