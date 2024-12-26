@@ -1,12 +1,13 @@
 # AI-Powered Data Platform Project
 
-# Project Goal
+## Project Goal
 1. Predictive analytics for business decision-making.
 2. Data integration and transformation using AI.
 3. Natural Language Processing (NLP) for querying datasets.
 4. Automated data quality checks and anomaly detection.
 
-# Key Components
+<details>
+<summary> Key Components </summary>
 
 ## 1. Data Sources 
 
@@ -45,7 +46,10 @@ Export options for reports or integrated systems.
 Data encryption, access controls, and privacy policies.
 Compliance with standards like GDPR or HIPAA.
 
-# Use Cases
+</details>
+
+<details>
+<summary> Use Cases </summary>
 
 # 1. Customer Segmentation
     Objective: Group customers based on behaviors and attributes for targeted marketing campaigns.
@@ -199,7 +203,7 @@ Low-code/no-code platforms custom-built interfaces integrated into the data plat
 Frontend tools such as JavaScript frameworks (e.g., React, Angular, Vue.js), Elasticsearch for search capabilities, and Django for backend support.
 Libraries and frameworks to build drag-and-drop interfaces for customer segmentation include D3.js for visualizations, Chart.js, and libraries like interact.js for interactive UI components.
 
-
+</details>
 
 # High-Level Workflow
 
